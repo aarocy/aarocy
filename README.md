@@ -47,6 +47,6 @@ My work is documented with clear evaluation criteria, design rationale, and futu
 
 ### 📬 Contact & Links
 
-- [Portfolio](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Email](mailto:you@example.com)
+- [Portfolio](https://aaroncportfolio.vercel.app)
+- [LinkedIn](https://linkedin.com/in/https://aaron-cyrus-55260b37a/)
+- [Email](mailto:aarocyrus.design@gmail.com)
